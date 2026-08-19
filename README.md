@@ -55,7 +55,7 @@ BOS-TA/
 
 ## 📞 Contact & Payment Details
 
-If you need to reach the project owner or make payments related to mentorship services, use the contacts and payment details below:
+If you need to reach the project owner or make payments related to mentorship services, use the contacts and payment details below.
 
 - Snapchat: @pasjay001
 - Telegram: @Big_proo
@@ -68,10 +68,21 @@ Payment details:
 
 - Bank Transfer (First Bank, Nigeria):
   - Account Name: OLUWAFEMI SAMSON BABATUNDE
-  - Account Number: 3150023815
+  - Account Number: ****3815  (message hotline/Telegram to confirm full number before transferring)
   - Bank: First Bank
 
 - BTC (Bitcoin):
   - Address: 16e1xsm7SrfE4amsfjXrRQWJam4jok1QAn
 
 Please double-check addresses before sending funds. The hotline number above also receives WhatsApp messages for confirmation.
+
+## ⚠️ Security & Anti-Fraud Guidance
+
+- Always confirm payment details via the hotline or Telegram before sending funds.
+- Make a small test transfer first before sending the full amount.
+- Do not share private keys or sensitive account information publicly.
+- If something looks suspicious, contact the hotline and verify via a direct call or WhatsApp message.
+
+## 📦 Ready for Deployment (Vercel)
+
+This repo is prepared to be deployed to Vercel (recommended for Next.js). See `docs/VERCEL_DEPLOYMENT.md` for step-by-step instructions to import and deploy the repository on Vercel, and where to add environment variables.
