@@ -52,3 +52,26 @@ BOS-TA/
 ---
 
 **Status:** In Development 🚀
+
+## 📞 Contact & Payment Details
+
+If you need to reach the project owner or make payments related to mentorship services, use the contacts and payment details below:
+
+- Snapchat: @pasjay001
+- Telegram: @Big_proo
+- Hotline / WhatsApp: +234 814 046 6882
+
+Payment details:
+
+- USDT (TRC20):
+  - Address: TBfG6uFgU3uQguvra3guN4HLJVmGTP7MBE
+
+- Bank Transfer (First Bank, Nigeria):
+  - Account Name: OLUWAFEMI SAMSON BABATUNDE
+  - Account Number: 3150023815
+  - Bank: First Bank
+
+- BTC (Bitcoin):
+  - Address: 16e1xsm7SrfE4amsfjXrRQWJam4jok1QAn
+
+Please double-check addresses before sending funds. The hotline number above also receives WhatsApp messages for confirmation.
